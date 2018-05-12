@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/594
     wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35361#The-Wicked-Marquis
 gutenberg_issued: '2011-02-22'
 gutenberg_type: Text
 identifiers:
